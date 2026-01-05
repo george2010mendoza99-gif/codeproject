@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Shop | AdrisRopaUsadaInc</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Shop</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="shop.html">Shop</a>
+  </nav>
+</header>
+
+<section class="products">
+
+  <div class="product">
+    <img src="shirt.jpg" alt="Used Shirt">
+    <h3>Used Shirt</h3>
+    <p>$10</p>
+    <p>DM to Buy</p>
+  </div>
+
+  <div class="product">
+    <img src="jeans.jpg" alt="Used Jeans">
+    <h3>Used Jeans</h3>
+    <p>$15</p>
+    <p>DM to Buy</p>
+  </div>
+
+</section>
+
+<footer>
+  <p>© 2026 AdrisRopaUsadaInc</p>
+</footer>
+
+</body>
+</html>
