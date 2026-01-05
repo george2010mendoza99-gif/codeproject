@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AdrisRopaUsadaInc</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>AdrisRopaUsadaInc</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="shop.html">Shop</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h2>Used Clothing • Affordable Prices</h2>
+  <p>Save money. Dress better. Help the planet.</p>
+</section>
+
+<footer>
+  <p>© 2026 AdrisRopaUsadaInc</p>
+</footer>
+
+</body>
+</html>
